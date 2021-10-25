@@ -21,7 +21,6 @@ Then I used the IBM Watson Text to Speech to convert the speech to text. I have 
 * I has 5-6 dialects in free trial so need to play with those.
 * Its cool but in future I would like to study this TTS and build my own that can have any custom voice.
 
-\
 
 Yeah! That was it for today. I have attached the code as usual. I have also given a text generated and its correponding speech.
 ### Note : Prefer GPT-Neo over GPT-2 (SHOCK).
