@@ -2,7 +2,7 @@ from transformers import pipeline
 from ibm_watson import TextToSpeechV1
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-api_key = 'E9XpSyPQule0UfXGaxU5fhfcPjl7WOxwFhzHU74mrW_A'
+api_key = '' # Insert API KEY here
 url = 'https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/0ea1c083-b8fd-4983-a05a-eb78ffe40352'
 
 
